@@ -423,8 +423,9 @@ span.money {
 }
 
 .link-product-add-cart:hover {
-    background:#26bb48;
-	color: #fff;
+    background:#fff;
+	color: #000;
+	border:0.01em solid black;
 }
 
 ul.stars i {
@@ -630,7 +631,7 @@ input#amount1 {
 }
 
 .side-bar {
-    padding: 20px 15px;
+    padding: 15px 10px;
     border: 1px solid #e4e4e4;
 }
 .shop_left img,.shop_right img  {
@@ -709,35 +710,6 @@ input.checked {
 
 
 /*-- //customer --*/
-
-
-/*-- special deals --*/
-
-.img-deal1 {
-	padding: 0 .5em;
-	margin-top: 10px;
-}
-
-.img-deal1 h3 {
-    color: #080808;
-    font-size: 13px;
-    margin-bottom: 10px;
-    font-weight: 700;
-}
-
-.img-deal1 a {
-    font-size: 14px;
-    color: #6d6c6c;
-}
-.special-sec1 {
-    margin-top: 15px;
-    margin-left: 3px;
-}
-.wrapper_top_shop {
-    padding: 15px;
-    border: 1px solid #e4e4e4;
-}
-/*-- //special deals --*/
 
 /*-- nuts --*/
 .men-thumb-item {
